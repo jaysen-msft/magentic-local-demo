@@ -9,6 +9,9 @@ Each submitted chat turn starts a new Magentic workflow. The app includes the re
 ## Sample test -> Prompt / Task
 Create a 90-day pilot plan for a regulated bank using a multi-agent AI system to help customer-service representatives answer credit-card questions. Include the architecture, human approval points, security and privacy controls, evaluation metrics, and key risks. Clearly label assumptions.
 
+## To be added:
+Human in loop, external tool calls, EVALs etc.
+
 ## Requirements
 
 - Python 3.11 or newer
